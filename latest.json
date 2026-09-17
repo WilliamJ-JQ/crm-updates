@@ -1,7 +1,7 @@
 {
-  "version": "0.1.8",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.8.zip",
-  "sha256": "deff81da9914c52d130b45922f5f79d580310f0839f00a567efa0f774efc3da6",
-  "notes": "桥接依赖预装(PM 免安装,仅需 Windows+VPN)",
+  "version": "0.1.9",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.9.zip",
+  "sha256": "1b58747218930503ac16ad679774f030cd187596c3d40d2e6f63cc1235de2129",
+  "notes": "修复:桥接代理写死成开发机地址,PM 机连不上 WhatsApp 出不了二维码(现默认直连,可配代理)",
   "date": "2026-09-17"
 }
