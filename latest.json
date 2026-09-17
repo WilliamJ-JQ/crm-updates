@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.9.zip",
-  "sha256": "1b58747218930503ac16ad679774f030cd187596c3d40d2e6f63cc1235de2129",
-  "notes": "修复:桥接代理写死成开发机地址,PM 机连不上 WhatsApp 出不了二维码(现默认直连,可配代理)",
+  "version": "0.2.0",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.2.0.zip",
+  "sha256": "5422bdd5e695bd3667f00ef277ae9205c0754ada5c8a192b37e9c532ba2d7cc8",
+  "notes": "修复:桥接单实例锁用PID判活,Windows PID复用导致误判已有实例→闪退(改本地接口探活);启动bat输出存日志便于排错",
   "date": "2026-09-17"
 }
