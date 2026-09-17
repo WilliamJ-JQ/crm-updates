@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.4.zip",
-  "sha256": "8ae2660ce561d4ebf06df911959e8b26644b031748cc98c3faea5362498aa95a",
-  "notes": "修复:重新扫码后二维码不出(自动装桥接依赖+后台启动+状态提示)",
+  "version": "0.1.5",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.5.zip",
+  "sha256": "5efb6d7a07ef8d67a9233eac44fa6eac1d66870186637da1656f6f6fb1fedac8",
+  "notes": "修复:桥接依赖安装太慢卡死(改用国内镜像 npmmirror + 防半装)",
   "date": "2026-09-17"
 }
