@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.2.0.zip",
-  "sha256": "5422bdd5e695bd3667f00ef277ae9205c0754ada5c8a192b37e9c532ba2d7cc8",
-  "notes": "修复:桥接单实例锁用PID判活,Windows PID复用导致误判已有实例→闪退(改本地接口探活);启动bat输出存日志便于排错",
+  "version": "0.2.1",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.2.1.zip",
+  "sha256": "0763e19ce70e91b53f25552edf8cff1df1e99dec57127010e4e436524eb80c14",
+  "notes": "桥接启动错误写 bridge-error.log(闪退可查);更新包开始带上启动.bat等脚本",
   "date": "2026-09-17"
 }
