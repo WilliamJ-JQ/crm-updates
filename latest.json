@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.2.2.zip",
-  "sha256": "9334619c81f725d8b21e1e477ecb46ad299b6cdf73cf793c625e2d4f2b44066b",
-  "notes": "修复:keepalive误读旧bridge.pid→误判桥接在跑→永不重启(出不了二维码);桥接固定工作目录;spawn改用CREATE_NO_WINDOW",
+  "version": "0.2.3",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.2.3.zip",
+  "sha256": "ab40befcc8049d3ad2f712e1a9ad64286fe3562691d7fb4fef341603599802a7",
+  "notes": "严重修复:启动bat用UTF-8导致中文乱码、cmd当命令执行→软件打不开(.bat改GBK编码)",
   "date": "2026-09-17"
 }
