@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.5.zip",
-  "sha256": "5efb6d7a07ef8d67a9233eac44fa6eac1d66870186637da1656f6f6fb1fedac8",
-  "notes": "修复:桥接依赖安装太慢卡死(改用国内镜像 npmmirror + 防半装)",
+  "version": "0.1.6",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.6.zip",
+  "sha256": "bee7f93b49d471220af5c96e031aea86ccf7aa309d8ff2e34ea765909a6f0bad",
+  "notes": "客户数据移到软件目录之外(更新/换包不丢)+ 更新前自动备份数据库",
   "date": "2026-09-17"
 }
