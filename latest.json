@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.1.zip",
-  "sha256": "72fdb06f2e4e806b12ba3a80f4db40b34374d9b3dad77bba986030c54d6e915d",
-  "notes": "首次上线:联网更新 + 消息识别/扫码/防封号修复",
+  "version": "0.1.2",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.2.zip",
+  "sha256": "3bd7a173fbb68fc7c7662ef1bb54ef396729d9f9a47c11a1e0d59b3305b88e7e",
+  "notes": "修复 Windows 桥接无法启动(python3//proc)、扫码报错、AI 路径含空格",
   "date": "2026-09-17"
 }
