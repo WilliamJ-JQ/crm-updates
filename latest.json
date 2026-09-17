@@ -1,7 +1,7 @@
 {
-  "version": "0.1.7",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.7.zip",
-  "sha256": "9aef84665168f88f9993fedbcf09c70483d0c53c29abc5669b39a10c18113cef",
-  "notes": "修复:Windows 上 npm.cmd 无法直接执行(改用 cmd /c)+ 镜像失败自动回退 + 界面显示依赖安装日志",
+  "version": "0.1.8",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.1.8.zip",
+  "sha256": "deff81da9914c52d130b45922f5f79d580310f0839f00a567efa0f774efc3da6",
+  "notes": "桥接依赖预装(PM 免安装,仅需 Windows+VPN)",
   "date": "2026-09-17"
 }
