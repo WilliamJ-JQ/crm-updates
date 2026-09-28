@@ -1,7 +1,7 @@
 {
-  "version": "0.2.3",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.2.3.zip",
-  "sha256": "ab40befcc8049d3ad2f712e1a9ad64286fe3562691d7fb4fef341603599802a7",
-  "notes": "严重修复:启动bat用UTF-8导致中文乱码、cmd当命令执行→软件打不开(.bat改GBK编码)",
-  "date": "2026-09-17"
+    "notes":  "v0.2.4 更新",
+    "url":  "code-0.2.4.zip",
+    "version":  "0.2.4",
+    "date":  "2026-09-28",
+    "sha256":  "6c92a0d949aee280356b1dbcaebdf3ab33c2114d4a0622cf0c397e0b27e0c24b"
 }
