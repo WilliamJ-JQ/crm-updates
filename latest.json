@@ -1,7 +1,7 @@
 {
-    "notes":  "v0.2.6 - 修复:1)桥接端口冲突(8766→8767),解决PM扫不出二维码;2)重启后客户数据丢失;3)AI模型启动不弹控制台窗口;4)桥接状态分步显示;5)npm安装不弹黑窗;6)版本号动态更新",
-    "url":  "https://williamj-jq.github.io/crm-updates/code-0.2.6.zip",
-    "version":  "0.2.6",
+    "notes":  "v0.2.7 - 修复:1)桥接端口冲突(8766→8767);2)重启后数据丢失;3)AI启动不弹窗口;4)桥接状态分步显示;5)npm安装不弹黑窗;6)版本号动态更新;7)桥接重连误判修复;8)二维码刷新加快",
+    "url":  "https://williamj-jq.github.io/crm-updates/code-0.2.7.zip",
+    "version":  "0.2.7",
     "date":  "2026-10-06",
-    "sha256":  "220c6247e0931d3893156726cc167ae47d939eb3475ec0010e4dab60f252909c"
+    "sha256":  "5a2d591544a3c632273bcee718d371daff0b48cc1fb177cc961198a2b77c7a5c"
 }
