@@ -1,7 +1,7 @@
-{
-    "notes":  "v0.2.7 - 修复:1)桥接端口冲突(8766→8767);2)重启后数据丢失;3)AI启动不弹窗口;4)桥接状态分步显示;5)npm安装不弹黑窗;6)版本号动态更新;7)桥接重连误判修复;8)二维码刷新加快",
-    "url":  "https://williamj-jq.github.io/crm-updates/code-0.2.7.zip",
-    "version":  "0.2.7",
-    "date":  "2026-10-06",
-    "sha256":  "5a2d591544a3c632273bcee718d371daff0b48cc1fb177cc961198a2b77c7a5c"
+﻿{
+    "date":  "2026-10-10",
+    "sha256":  "359ed11b245accd45d264dca8e6a820070ded2daecfbf5c096a2e7be91bbc806",
+    "url":  "https://williamj-jq.github.io/crm-updates/code-0.3.0.zip",
+    "version":  "0.3.0",
+    "notes":  "v0.3.0: 修复桥接联网失败崩溃问题（fetchLatestBaileysVersion加容错），修复default用户残留，新增统一启动脚本（自动安装WebView2），修复update.json更新地址配置"
 }
