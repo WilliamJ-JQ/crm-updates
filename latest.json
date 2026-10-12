@@ -1,7 +1,7 @@
-﻿{
-    "date":  "2026-10-10",
-    "sha256":  "359ed11b245accd45d264dca8e6a820070ded2daecfbf5c096a2e7be91bbc806",
-    "url":  "https://williamj-jq.github.io/crm-updates/code-0.3.0.zip",
-    "version":  "0.3.0",
-    "notes":  "v0.3.0: 修复桥接联网失败崩溃问题（fetchLatestBaileysVersion加容错），修复default用户残留，新增统一启动脚本（自动安装WebView2），修复update.json更新地址配置"
+{
+  "version": "0.3.1",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.3.1.zip",
+  "sha256": "9585c2fa0b3937ed0ba9d78ad7b2e41aa34a1b1da692bae2890d11cf19ffd097",
+  "date": "2026-10-12",
+  "notes": "v0.3.1: 已处理界面重构(按日期+客户归类), 新增日报总结功能, 已处理添加消息追溯, 开发者版独立端口, 日报排版优化"
 }
