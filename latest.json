@@ -1,7 +1,7 @@
 {
-  "version": "0.3.1",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.3.1.zip",
-  "sha256": "9585c2fa0b3937ed0ba9d78ad7b2e41aa34a1b1da692bae2890d11cf19ffd097",
-  "date": "2026-10-12",
-  "notes": "v0.3.1: 已处理界面重构(按日期+客户归类), 新增日报总结功能, 已处理添加消息追溯, 开发者版独立端口, 日报排版优化"
+  "version": "0.3.2",
+  "url": "https://williamj-jq.github.io/crm-updates/code-0.3.2.zip",
+  "sha256": "8f1b3a27c030d060ace5c5d22461cae1446f1c29526e66623fe1eecd9da7cb79",
+  "date": "2026-10-13",
+  "notes": "v0.3.2: 老客户导入优化(自适应无扩展名ZIP/只读TXT/VCF手机号提取/中文文件名识别), 消息发送者身份手动调整, 开发者版独立端口+独立标题+单实例, 拖拽上传交互, 翻译端口自动推导"
 }
