@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "url": "https://williamj-jq.github.io/crm-updates/code-0.3.2.zip",
-  "sha256": "8f1b3a27c030d060ace5c5d22461cae1446f1c29526e66623fe1eecd9da7cb79",
-  "date": "2026-10-13",
-  "notes": "v0.3.2: 老客户导入优化(自适应无扩展名ZIP/只读TXT/VCF手机号提取/中文文件名识别), 消息发送者身份手动调整, 开发者版独立端口+独立标题+单实例, 拖拽上传交互, 翻译端口自动推导"
+    "date":  "2026-10-14",
+    "notes":  "v0.3.3: 身份识别优化(按手机号独立识别), 老客户批量导入(逐个解析按顺序导入), 看板阶段更新(新询盘/谈判中/谈价中/备货中/交付中), 修复消息记录加载错误, 修复切换客户跳转问题",
+    "url":  "https://williamj-jq.github.io/crm-updates/code-0.3.3.zip",
+    "version":  "0.3.3",
+    "sha256":  "63740c81538cab8d102320bb99c46ccaa82be24a14f317bf3b5e00452e050945"
 }
