@@ -1,7 +1,7 @@
 {
     "date":  "2026-10-14",
-    "notes":  "v0.3.3: 身份识别优化(按手机号独立识别), 老客户批量导入(逐个解析按顺序导入), 看板阶段更新(新询盘/谈判中/谈价中/备货中/交付中), 修复消息记录加载错误, 修复切换客户跳转问题",
-    "url":  "https://williamj-jq.github.io/crm-updates/code-0.3.3.zip",
-    "version":  "0.3.3",
-    "sha256":  "63740c81538cab8d102320bb99c46ccaa82be24a14f317bf3b5e00452e050945"
+    "notes":  "v0.3.4: 新增老板监管系统(强制开启,固定密钥Boss@2026CRM,局域网可访问,总览/待跟进/已处理/客户/日报),修复启动脚本不杀node进程导致更新后bridge无法启动的问题,设置界面显示本机IP地址",
+    "url":  "https://williamj-jq.github.io/crm-updates/code-0.3.4.zip",
+    "version":  "0.3.4",
+    "sha256":  "6954115c2414bae4266c954e59331f15612269011fe5b03615811b53ff4bac3b"
 }
