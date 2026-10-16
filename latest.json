@@ -1,4 +1,4 @@
-{
+﻿{
     "version":  "0.3.5",
     "notes":  [
                   "1. 自动更新：版本号旁显示更新按钮，一键下载+重启",
@@ -8,8 +8,8 @@
                   "5. 国家码识别：补充全球150+国家地区（含马尔代夫+960）",
                   "6. AI提示词优化：修复已发送报价被误判为承诺的问题"
               ],
-    "sha256":  "9fbc362cf8e313608dc9abd1c342cef81927c79a140a0d1d507b027127633629",
+    "sha256":  "9487a4cebe16ec7d90292c95bc16aef94d5bb9835f1a92a23d43d0fd200d9ec2",
     "release_date":  "2026-10-16",
-    "url":  "https://github.com/你的仓库/raw/main/code-0.3.5.zip",
-    "size":  172903
+    "url":  "https://github.com/USERNAME/REPO/raw/main/code-0.3.5.zip",
+    "size":  173093
 }
